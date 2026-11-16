@@ -1,4 +1,4 @@
-# E-commerce Sales & Discount Analysis
+# Customer Purchase and Payment Behavior Analysis 
 
 An end-to-end analysis of 3,660 e-commerce transactions (Jan–Nov 2024) to understand what drives revenue and whether discounting, payment method or purchase timing change customer behaviour. **Most factors turned out to be statistically indistinguishable from random.** The one real pattern is that discounts give away about ₹1.75 lakh (18.8% of list value) without attracting bigger purchases or more orders.
 
@@ -107,7 +107,7 @@ Columns: `User_ID`, `Product_ID`, `Category`, `Price (Rs.)`, `Discount (%)`, `Fi
 ## Repository structure
 
 ```
-ecommerce-sales-analysis/
+Customer-Purchase-and-Payment-Behavior/
 ├── README.md
 ├── images/
 │   ├── monthly_revenue.png
